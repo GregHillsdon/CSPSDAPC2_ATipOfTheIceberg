@@ -10,4 +10,4 @@ Add your name below the lines - Ajoutez votre nom sous les lignes.
 
 - Guillaume Charest
 - Martin Schryer
-- Greg Hilsdon
+- Greg Hillsdon
